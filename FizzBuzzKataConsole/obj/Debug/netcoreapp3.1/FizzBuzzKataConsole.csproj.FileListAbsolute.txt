@@ -1,0 +1,12 @@
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/bin/Debug/netcoreapp3.1/FizzBuzzKataConsole.deps.json
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/bin/Debug/netcoreapp3.1/FizzBuzzKataConsole.runtimeconfig.json
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/bin/Debug/netcoreapp3.1/FizzBuzzKataConsole.runtimeconfig.dev.json
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/bin/Debug/netcoreapp3.1/FizzBuzzKataConsole.dll
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/bin/Debug/netcoreapp3.1/FizzBuzzKataConsole.pdb
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.csprojAssemblyReference.cache
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.csproj.CoreCompileInputs.cache
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.AssemblyInfoInputs.cache
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.AssemblyInfo.cs
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.dll
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.pdb
+/Users/jay.soeur/Project/FMA/FizzBuzzKata/FizzBuzzKataConsole/obj/Debug/netcoreapp3.1/FizzBuzzKataConsole.genruntimeconfig.cache
